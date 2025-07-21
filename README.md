@@ -1,4 +1,5 @@
-# SpringAi
+# 下面为该项目相关技术栈说明
+## SpringAi
 
 SpringAi为java集成各个大模型提供了一个抽象，可以方便开发Spring应用中的AI相关功能，包括：AI聊天、图片生成、语音识别等，[SpringAi官网](https://docs.spring.io/spring-ai/reference/index.html)
 
