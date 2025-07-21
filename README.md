@@ -63,7 +63,7 @@ SpringAi为java集成各个大模型提供了一个抽象，可以方便开发Sp
   spring:
     ai:
       deepseek:
-        api-key: sk-6d42913bd47d45999a1811ba7b815f7e
+        api-key: ${DEEPSEEK_API_KEY}
         base-url: "https://api.deepseek.com"
         model: "deepseek-chat"    // 指定模型名称
         options:         // 生成设置
