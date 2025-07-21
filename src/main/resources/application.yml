@@ -30,7 +30,7 @@ spring:
       redis:
         initialize-schema: true
     deepseek:
-      api-key: sk-6d42913bd47d45999a1811ba7b815f7e
+      api-key: ${DEEPSEEK_API_KEY}
       base-url: https://api.deepseek.com
       model: "deepseek-chat"
 #      chat:
